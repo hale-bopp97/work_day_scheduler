@@ -16,7 +16,7 @@ None.
 
 ### Executing program
 
-Application is hosted on Github pages at: 
+Application is hosted on Github pages at: https://hale-bopp97.github.io/work_day_scheduler/
 
 ## Authors
 
